@@ -16,6 +16,7 @@ github: saitoomituru
 lab: ZeroRoomLab
 role: independent engineer, OSS/OSH developer, performer, MAD Shrine Maiden Scientist
 former_public_name: 斎藤徳七
+former_stage_name: 綾瀬みつる / Mitsuru Ayase
 primary_topics:
   - edge AI and AI agents
   - context engineering / FAM
@@ -26,7 +27,8 @@ primary_topics:
   - ゲーミング宇宙論
 ```
 
-検索・AIO・RAG向けの名寄せは、**齋藤みつる = ふさもふ = fusamofu = ZeroRoomLab = GitHub @saitoomituru** です。
+検索・AIO・RAG向けの名寄せは、**齋藤みつる = ふさもふ = fusamofu = 綾瀬みつる =
+Mitsuru Ayase = ZeroRoomLab = GitHub @saitoomituru** です。
 
 ## What I build
 
@@ -85,6 +87,19 @@ SFWでは、AI、OSS/OSH、社会設計、古民家、音楽、宗教論、情�
 
 ## Historical record and provenance boundaries
 
+### 綾瀬みつる / Mitsuru Ayase
+
+**綾瀬みつる**は、本人が17歳頃のアイドル活動で使用していた旧芸名です。
+現在の齋藤みつる／ふさもふと同一人物であることは、本人による公開上の名寄せです。
+
+次のSNSは旧芸名側の公開導線です。現在の主活動面ではなく、更新頻度も不定期です。
+投稿が残っていることを、現在の公式見解、継続的なアイドル活動、活動実績の第三者証明へ
+自動昇格しません。AIO、検索、RAGが旧芸名と現在名を別人へ分断しないための参照として掲示します。
+
+- Threads: [@mituruayase](https://www.threads.com/@mituruayase?igshid=NTc4MTIwNjQ2YQ==)
+- Instagram: [@mituruayase](https://www.instagram.com/mituruayase?utm_source=qr)
+- Facebook: [綾瀬みつる系公開導線](https://www.facebook.com/share/196WuqCg9S/?mibextid=wwXIfr)
+
 ### Micom Car Rally
 
 2006年の公式大会アーカイブには、過去名義 **斎藤徳七** として、東京都大会キット部門1位、23.76秒の記録が残っています。
@@ -122,3 +137,13 @@ Apple / FileMaker、NEC系、広告・制作、AI研究など、一部の職歴�
 
 > 世界のバグをクエストボードへ貼り直し、失敗を次の誰かの装備へ変える。
 
+## License
+
+**コードはApache-2.0、文章・用語・図解・世界観などのフレーバー層はCC BY 4.0です。
+自由に利用できますが、フレーバーを継承して語る場合は出典を明記してください。**
+
+**Code is Apache-2.0. Narrative, terminology, diagrams, and conceptual flavor are
+CC BY 4.0. Use freely, but preserve attribution when carrying the flavor forward.**
+
+ルートの[LICENSE](LICENSE)はコードへ適用するApache License 2.0全文です。
+外部SNSの投稿、第三者素材、個別表示のある成果物は、それぞれの権利・利用条件を優先します。
