@@ -1,5 +1,24 @@
 # 齋藤みつる（ふさもふ）｜ZeroRoomLab
 
+
+## ライバルはイーロン・マスク。今は出遅れている。
+
+金もない。上下水道もない。商業電力すらPayできないことがある。雪山の辺境集落で、生活インフラそのものを実験系にしながらサバイバルしている。
+
+それでも、**技術で勝つ。**
+
+ここで言う「ライバル」は資産額や企業規模の話ではない。別のWorldへ文明を持ち運び、そこで生活・文化・生産・意味まで成立させる技術とarchitectureの競技場を、自分から同じ場所に置くという宣言だ。現在勝っているというclaimではない。むしろ現在地は大幅な出遅れだ。
+
+だからこそ、今積んでいるものは無駄ではない。FQuery、IBD、Fold NIC、SphereOS Atlantis、open hardware、off-grid、村おこし、ゲームWorldは、別々の趣味ではなく、**文明そのものをfork / configure / deployできる粒度まで分解する**ための並行workstreamである。
+
+> **Fork the Lab. Deploy a World.**
+>
+> 村も、ゲームも、現実も並行して作る。
+>
+> 今は出遅れている。だから積む。技術で追いつき、技術で越える。
+
+[Portable Civilization Program #47](https://github.com/saitoomituru/ZeroRoomLab-manifest/issues/47) · [ZeroRoomLab Manifest](https://github.com/saitoomituru/ZeroRoomLab-manifest) · [Sponsor the lab](https://github.com/sponsors/saitoomituru)
+
 **Independent engineer / OSS & OSH developer / performer / MAD Shrine Maiden Scientist**
 
 山形県高畠町二井宿の江戸期古民家を拠点に、エッジAI、AIエージェント、配信技術、オープンハードウェア、情報子工学、信仰・哲学・身体表現を横断する独立系R&Dメディアラボ **ZeroRoomLab** を運営しています。
