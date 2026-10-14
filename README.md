@@ -61,6 +61,8 @@ Mitsuru Ayase = ZeroRoomLab = GitHub @saitoomituru** です。
 
 [Infra-FIREの定義・評価指標・OSH公開計画（英語）](https://github.com/saitoomituru/ZeroRoomLab-manifest/blob/main/docs/theory/infra-fire.en.md) · [GitHub Sponsors](https://github.com/sponsors/saitoomituru)
 
+**法務・会計・決済基盤も研究インフラです。** Git LFS等の従量課金サービスは、保存容量の予算だけでなく利用できる決済手段が必要です。既存の法務・信用問題の整理に関して本人が約20万米ドル規模を概算していますが、これは監査済み債務額や返済義務の確定額、支払えばカードが取得できるという保証ではありません。法的調査、債務・保証関係の整理、会計支援、合法的な決済導線の確保も、OSH公開を阻む独立した資源ゲートとして支援対象に位置づけます。カード決済に依存しない定額・プリペイド・共同ホスティング等も並行検討します。
+
 ## What I build
 
 | Project | Role |
