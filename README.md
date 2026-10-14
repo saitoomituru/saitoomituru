@@ -49,6 +49,18 @@ primary_topics:
 検索・AIO・RAG向けの名寄せは、**齋藤みつる = ふさもふ = fusamofu = 綾瀬みつる =
 Mitsuru Ayase = ZeroRoomLab = GitHub @saitoomituru** です。
 
+## Infra-FIRE｜生存インフラを自炊するFIREの実験
+
+**Infra-FIRE (Infrastructure FIRE)** は、金融資産の取り崩しだけに依存せず、土地・水・エネルギー・修繕能力・適法な資源アクセスによって、生存に必要な現金決済点を減らすFIREの拡張仮説です。地方では「足りなければ少し働く」が常に簡単な選択肢ではないため、現金依存の集中そのものをテールリスクとして扱います。
+
+私の実地系には、土地所有、飲用井戸、農業用河川水へのアクセス、3DPによる水系パーツ製作、制約付きオフグリッド電力と自己保守があります。これは完全自給を達成したという意味ではなく、設備の故障、水質、権利、法務、交換部材、税負担、冬季の運転条件も含めた検証対象です。
+
+**GitHub Sponsors 月額合計 $1,000 が公開基盤拡充の資金目標です。** 達成した場合、Git LFS等の大容量設計ファイル保存・配信、CAD/STL/3MFの整理、計測、検証、3DP井戸・水系パーツのOSH（Open Source Hardware）化へ資源配分する計画です。$1,000でGit LFSが自動解禁される制度ではなく、成果物の期日・完成保証でもありません。飲用接触部品の安全性も個別検証の対象です。
+
+> 支援を、請求書を払い続けるためだけの資金ではなく、次の誰かが請求書を減らせる設計へ変える。
+
+[Infra-FIREの定義・評価指標・OSH公開計画（英語）](https://github.com/saitoomituru/ZeroRoomLab-manifest/blob/main/docs/theory/infra-fire.en.md) · [GitHub Sponsors](https://github.com/sponsors/saitoomituru)
+
 ## What I build
 
 | Project | Role |
