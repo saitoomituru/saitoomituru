@@ -150,7 +150,11 @@ Apple / FileMaker、NEC系、広告・制作、AI研究など、一部の職歴�
 
 ## Current operational status: development paused by power constraints
 
-**2026-09-19 — 現在、金銭的な制約による停電状態にあり、開発を一時停止しています。**
+**2026-10-15 — 商用電力から切り離されて30日。生活と通信は継続できたが、研究開発用の電力は不足。**
+
+約980Wh（公称蓄電量）のオフグリッド構成で、水・入浴・通信を維持し、動画、歌、ダンス、広報の制作は継続。一方、通常の高負荷な計算・技術実装は継続困難だった。事故的な金欠による自然実験であり、意図的な耐久実験ではない。**Survival Independence ≠ Productive Independence.** [30日間の実験記録](https://github.com/saitoomituru/ZeroRoomLab-manifest/blob/main/docs/projects/2026-10-15-offgrid-30days-field-report.ja.md)。
+
+**前回の状態（2026-09-19）：**
 
 非常用のオフグリッド電力は生活・通信などの最低限の維持に優先して使用しているため、現時点では開発環境・計算機まで十分な電力を回せません。
 
